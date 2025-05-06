@@ -9,17 +9,17 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Lamanus\' Blog',
-  domain: 'blog.lamanus.kr',
-  author: 'Lamanus',
+  name: 'Bulan\' Blog',
+  domain: 'nurlaelabulan.my.id',
+  author: 'Bulan. N',
 
   // open graph metadata (optional)
-  description: 'Lamanus\' Blog',
+  description: 'Bulan\' Blog',
 
   // social usernames (optional)
   // twitter: '#',
-  github: 'daeho-ro',
-  // linkedin: '#',
+  github: 'Lanlanb',
+  linkedin: 'bulan-nurlaela',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
@@ -31,7 +31,7 @@ export default siteConfig({
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
-  isPreviewImageSupportEnabled: false,
+  isPreviewImageSupportEnabled: true,
 
   // whether or not redis is enabled for caching generated preview images (optional)
   // NOTE: if you enable redis, you need to set the `REDIS_HOST` and `REDIS_PASSWORD`
@@ -64,10 +64,10 @@ export default siteConfig({
   // ]
 
   giscus: {
-    repo: 'daeho-ro/notion-blog',
-    repoId: 'R_kgDOMk39yQ',
+    repo: 'Lanlanb/my-notion',
+    repoId: 'R_kgDONP10tw',
     category: 'Comments',
-    categoryId: 'DIC_kwDOMk39yc4ChwCQ',
+    categoryId: 'DIC_kwDONP10t84Cp1fa',
     mapping: 'pathname',
     theme: 'light_tritanopia',
     darkTheme: 'dark_dimmed'
