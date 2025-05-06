@@ -70,6 +70,7 @@ export default siteConfig({
     categoryId: 'DIC_kwDONP10t84Cp1fa',
     mapping: 'pathname',
     theme: 'light_tritanopia',
-    darkTheme: 'dark_dimmed'
+    darkTheme: 'dark_dimmed',
+    lang: 'id'
   }
 })
