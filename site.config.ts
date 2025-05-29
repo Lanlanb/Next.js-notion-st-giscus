@@ -55,19 +55,19 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'Proyek',
-      pageId: '151c813f9c5480ccb0aed42d5dd21ac0'
+      pageId: 'All-project-151c813f9c5480ccb0aed42d5dd21ac0'
     },
     {
-      title: 'Blog',
-      pageId: '13dc813f9c5481df8f42d69cb76d38d8'
+      title: 'Post',
+      pageId: 'Postingan-Saya-13dc813f9c5481df8f42d69cb76d38d8'
     },
     {
       title: 'About',
-      pageId: '13dc813f9c5481d8b258c10555e24785'
+      pageId: 'About-13dc813f9c5481d8b258c10555e24785'
     },
     {
       title: 'Get in Touch',
-      pageId: '140c813f9c5480c49e9ad6700cbb75b9'
+      pageId: 'Get-in-Touch-140c813f9c5480c49e9ad6700cbb75b9'
     }
   ]
 
@@ -77,7 +77,7 @@ export default siteConfig({
     category: 'Comments',
     categoryId: 'DIC_kwDONP10t84Cp1fa',
     mapping: 'pathname',
-    theme: 'light_tritanopia',
+    theme: 'preferred_color_scheme',
     darkTheme: 'dark_dimmed',
     lang: 'id'
   }
