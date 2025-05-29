@@ -69,7 +69,7 @@ export default siteConfig({
       title: 'Get in Touch',
       pageId: 'Get-in-Touch-140c813f9c5480c49e9ad6700cbb75b9'
     }
-  ]
+  ],
 
   giscus: {
     repo: 'Lanlanb/my-notion',
