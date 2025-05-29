@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Bulan\' Blog',
   domain: 'nurlaelabulan.my.id',
-  author: 'Bulan. N',
+  author: 'Bulan Nurlaela',
 
   // open graph metadata (optional)
   description: 'Bulan\' Blog',
@@ -21,7 +21,7 @@ export default siteConfig({
   github: 'Lanlanb',
   linkedin: 'bulan-nurlaela',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
-  // newsletter: '#', // optional newsletter URL
+  newsletter: 'https://www.nurlaelabulan.my.id/berlangganan', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
@@ -77,8 +77,8 @@ export default siteConfig({
     category: 'Comments',
     categoryId: 'DIC_kwDONP10t84Cp1fa',
     mapping: 'pathname',
-    theme: 'preferred_color_scheme',
-    darkTheme: 'dark_dimmed',
+    theme: 'light_high_contrast',
+    darkTheme: 'dark_high_contrast',
     lang: 'id'
   }
 })
