@@ -99,6 +99,8 @@ export function PageHead({
       <meta property='og:title' content={title} />
       <meta name='twitter:title' content={title} />
       <title>{title}</title>
+      
+      <script defer src="https://cloud.umami.is/script.js" data-website-id="b32741f6-651d-46bd-936b-ea077ac915ca"></script>
     </Head>
   )
 }
