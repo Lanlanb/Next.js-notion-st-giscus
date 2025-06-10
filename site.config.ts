@@ -58,10 +58,6 @@ export default siteConfig({
       pageId: 'All-project-151c813f9c5480ccb0aed42d5dd21ac0'
     },
     {
-      title: 'Post',
-      pageId: 'Postingan-Saya-13dc813f9c5481df8f42d69cb76d38d8'
-    },
-    {
       title: 'About',
       pageId: 'About-13dc813f9c5481d8b258c10555e24785'
     },
