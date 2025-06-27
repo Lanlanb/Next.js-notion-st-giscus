@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Bulan Nurlaela',
 
   // open graph metadata (optional)
-  description: 'Bulan\' Blog',
+  description: 'Bulan\'s Personal Space',
 
   // social usernames (optional)
   // twitter: '#',
@@ -53,10 +53,6 @@ export default siteConfig({
   // navigationStyle: 'default',
   navigationStyle: 'custom',
   navigationLinks: [
-    {
-      title: 'Proyek',
-      pageId: 'All-project-151c813f9c5480ccb0aed42d5dd21ac0'
-    },
     {
       title: 'About',
       pageId: 'About-13dc813f9c5481d8b258c10555e24785'
