@@ -70,7 +70,7 @@ export default siteConfig({
     categoryId: 'DIC_kwDONP10t84Cp1fa',
     mapping: 'pathname',
     theme: 'fro',
-    darkTheme: 'dark_high_contrast',
+    darkTheme: 'fro',
     lang: 'id'
   }
 })
