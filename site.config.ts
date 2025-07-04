@@ -69,7 +69,7 @@ export default siteConfig({
     category: 'Comments',
     categoryId: 'DIC_kwDONP10t84Cp1fa',
     mapping: 'pathname',
-    theme: 'light_high_contrast',
+    theme: 'fro',
     darkTheme: 'dark_high_contrast',
     lang: 'id'
   }
