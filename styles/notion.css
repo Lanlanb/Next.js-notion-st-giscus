@@ -141,8 +141,36 @@
 }
 
 .notion-callout {
-  margin: 0.75em 0;
+    padding-right: 56px;
+    text-align: justify;
+    display: inline-flex;
+    width: 100%;
+    border-radius: 50px;
+    border-width: 5px;
+    align-items: center;
+    box-sizing: border-box;
+    border-left: 10px solid;
 }
+
+.notion-callout .notion-page-icon-inline {
+    align-self: flex-start;
+    width: 24px;
+    height: 24px;
+    line-height: 15px;
+    font-size: 1.3em;
+    margin: 15px 5px 10px 0px
+}
+
+.dark-mode .notion-callout {
+    border-color: var(--bg-color-2)
+}
+
+.notion-callout-text {
+    white-space: pre-wrap;
+    word-break: break-word;
+    width: 100%
+}
+
 
 .notion-hr {
   margin: 2em 0;
