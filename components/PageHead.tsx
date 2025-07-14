@@ -100,7 +100,6 @@ export function PageHead({
       <meta name='twitter:title' content={title} />
       <title>{title}</title>
       
-      <link rel="stylesheet" href="https://sites.super.so/snippets/v2/view-picker.css">
       <script defer src="https://cloud.umami.is/script.js" data-website-id="b32741f6-651d-46bd-936b-ea077ac915ca"></script>
     </Head>
   )
