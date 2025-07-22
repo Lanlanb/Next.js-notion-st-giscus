@@ -140,6 +140,33 @@
   margin-bottom: 0.25em;
 }
 
+/* custom area di mulai dari sini */
+a.notion-link {
+    border-bottom: none;
+    padding: 2px !important;
+    display: inline-block !important;
+    /* white-space: pre !important; */
+}
+
+a.notion-link:hover {
+    border-bottom: none !important;
+}
+
+.notion-block-21ec813f9c548039b856d8a0611a007d,
+.notion-block-221c813f9c54807ebb54ed0d6dbcd818,
+.notion-block-221c813f9c5480269442f3ee69c41481{
+    text-align: center;
+    padding: 20px;
+    color: var(--bg-color);
+    background-color: var(--notion-blue);
+    border-radius: 15px;
+    font-weight: bold;
+}
+
+.notion-block-21ec813f9c548039b856d8a0611a007d:hover {
+    box-shadow: 0 0 0 4px var(--bg-color-2);
+}
+
 .notion-callout {
     padding-right: 56px;
     text-align: justify;
